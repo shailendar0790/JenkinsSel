@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="170" started-at="2020-01-07T01:24:21 EST" finished-at="2020-01-07T01:24:21 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="170" started-at="2020-01-07T01:24:21 EST" finished-at="2020-01-07T01:24:21 EST">
+      <class name="branchbanking.SeleniumTest">
+        <test-method status="PASS" signature="AnushkaShetty()[pri:0, instance:branchbanking.SeleniumTest@67b92f0a]" name="AnushkaShetty" duration-ms="37" started-at="2020-01-07T01:24:21 EST" finished-at="2020-01-07T01:24:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AnushkaShetty -->
+        <test-method status="PASS" signature="Kajal()[pri:0, instance:branchbanking.SeleniumTest@67b92f0a]" name="Kajal" duration-ms="5" started-at="2020-01-07T01:24:21 EST" finished-at="2020-01-07T01:24:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Kajal -->
+      </class> <!-- branchbanking.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
